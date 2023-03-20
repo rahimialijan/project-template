@@ -1,5 +1,5 @@
-function test(){
-    let x=2;
-    return x
+function test() {
+  const x = 2;
+  return x;
 }
 test();
